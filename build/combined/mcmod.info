@@ -3,10 +3,10 @@
   "modid": "prefishfeed",
   "name": "Pre Fish Feed",
   "description": "A mod for Pre Feed Fish.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcversion": "1.12.2",
-  "url": "https://www.curseforge.com/minecraft/mc-mods/pre-feed-fish",
-  "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/pre-feed-fish",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/pre-fish-feed",
+  "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/pre-fish-feed",
   "authorList": ["Hileb"],
   "credits": "
  Idealland - they provided this framework."

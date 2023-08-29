@@ -1,6 +1,5 @@
 package com.Hileb.prefishfeed.fish;
 
-import com.Hileb.prefishfeed.PFFModMain;
 import net.minecraft.entity.item.EntityItem;
 import net.minecraft.entity.projectile.EntityFishHook;
 import net.minecraft.item.Item;
@@ -113,7 +112,6 @@ public class PFFFishHandler {
             }
             for(HookState hook:remove){
                 livingHooks.remove(hook);
-                PFFModMain.logger.warn("aaa");
             }
         }
     }
